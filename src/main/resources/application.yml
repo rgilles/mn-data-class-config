@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: mn-data-class-config
+---
+dataclass:
+  name: "micronaut"
